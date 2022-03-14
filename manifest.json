@@ -4,14 +4,19 @@
     "description": "Chicken Guysサーバーの経済を司るパックです。CGサーバーでは導入必須となります。",
     "name": "economy-eme",
     "uuid": "2aa2007d-858a-4f39-912f-752ca7b9a65e",
-    "version": [0, 0, 1]
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 18, 0]
   },
   "modules": [
     {
-      "description": "Chicken Guysサーバーの経済を司るパックです。CGサーバーでは導入必須となります。",
+      "description": "ビヘイビアーパック。開発開始時のver.は1.18.12。",
       "type": "data",
       "uuid": "2aa2007d-858a-4f39-912f-752ca7b9a65e",
       "version": [0, 0, 1]
     }
-  ]
+  ],
+  "metadata":{
+    "authors": [ "taku1417" ],
+    "url": "https://github.com/taku1417/economy-eme"
+  }
 }
